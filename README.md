@@ -1,4 +1,6 @@
-# Praktikum
+## здесь собраны проекты, которые я выполнял в ходе обучения в Яндекс Практикуме
 
-## Project №1
-- нужно добавить таблицу с наименованием проекта, описанием и стеком(python, pandas и другие библиотеки)
+|Project|discription(EN)|discription(RUS)|stack technology|
+|--|--|--|--|
+|Project 1|This project focuses on the essential steps of data analysis: preprocessing, exploration, and hypothesis testing.|Проведение предобработки данных, исследовательского анализа данных и проверка гипотезы|pandas, numpy, seaborn, matplotlib, scipy, math, plots|
+|--|--|--|--|
